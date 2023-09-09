@@ -1,7 +1,7 @@
 public class CaixaEletronico {
 
     public static void main(String[] args) {
-        System.out.println("Estruturas de fluxo de controle - Condicional Simples\n");
+        System.out.println("Estruturas de fluxo de controle - Condicional Simples");
         double saldo = 25.0, valorSolicitado = 17.0;
 
         if (valorSolicitado < saldo) {
@@ -22,7 +22,7 @@ public class CaixaEletronico {
         atender a condição, ele não foi executado, e pulou o bloco de código.
          */
 
-        System.out.println("\n---------------------------------------------------------------------------\n");
+        System.out.println("---------------------------------------------------------------------------\n");
 
 
     }
