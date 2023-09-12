@@ -1,4 +1,4 @@
-public class CaixaEletronico {
+public class CaixaEletronicoSimples {
 
     public static void main(String[] args) {
         System.out.println("Controle de fluxo - Execução Condicional Simples");

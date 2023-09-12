@@ -1,12 +1,12 @@
-public class ResultadoEscolar {
+public class ResultadoEscolarComposto {
     public static void main(String[] args) {
         System.out.println("Controle de fluxo - Execução Condicional composta");
         /*Sistema de resultado escolar, onde se o aluno tirar uma nota
          * Que seja igual ou maior que 7*/
         int nota = 6;
 
-        /*Neste caso irá ser imprimida a mensagem reprovado, pela condição
-         * ser não atender ao se especifico, sendo falsa. */
+        /*Neste caso irá ser imprimida a mensagem reprovado, pela condição não
+         * atender ao bloco de condição if, sendo else.. */
         if (nota >= 7) {
             System.out.println("Aprovado");
         } else {
@@ -16,7 +16,7 @@ public class ResultadoEscolar {
         nota = 8;
 
         /*Neste caso irá ser imprimida a mensagem aprovado, pela condição
-         * ser atendida, sendo verdadeira. */
+         * do bloco if ser atendida. */
         if (nota >= 7) {
             System.out.println("Aprovado");
         } else {
