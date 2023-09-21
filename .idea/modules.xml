@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Estudos-Java.iml" filepath="$PROJECT_DIR$/.idea/Estudos-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trilha-java/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/trilha-java/controle-fluxo/controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trilha-java/controle-fluxo-repeticao/controle-fluxo-repeticao.iml" filepath="$PROJECT_DIR$/trilha-java/controle-fluxo-repeticao/controle-fluxo-repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trilha-java/controle-fluxo-switch-case/controle-fluxo-switch-case.iml" filepath="$PROJECT_DIR$/trilha-java/controle-fluxo-switch-case/controle-fluxo-switch-case.iml" />
       <module fileurl="file://$PROJECT_DIR$/trilha-java/operadores/operadores.iml" filepath="$PROJECT_DIR$/trilha-java/operadores/operadores.iml" />
       <module fileurl="file://$PROJECT_DIR$/trilha-java/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/trilha-java/sistema-smart-tv/sistema-smart-tv.iml" />
       <module fileurl="file://$PROJECT_DIR$/trilha-java/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/trilha-java/tipos-variaveis/tipos-variaveis.iml" />
