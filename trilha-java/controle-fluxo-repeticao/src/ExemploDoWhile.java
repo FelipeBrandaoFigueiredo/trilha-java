@@ -12,9 +12,7 @@ public class ExemploDoWhile {
         System.out.println("Alô !!!");
 
         boolean condicao = false;
-
-
-
+        
     }
 
 
