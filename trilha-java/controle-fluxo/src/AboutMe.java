@@ -26,7 +26,7 @@ public class AboutMe {
 
         }catch(InputMismatchException e){
                 System.err.println("Os campos idade e altura precisam ser númericos.");
-                boolean confirmation = true;
+
             }
         }
     }
